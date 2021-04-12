@@ -1,6 +1,7 @@
 ### Hi there, I'm Guilherme
 
 <p>Currently i'm 19 years old and still a student</p>
+
 # :zap: Technologies
 
 <h3>Front-end</h3>
