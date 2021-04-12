@@ -21,7 +21,7 @@
 <h3>Frameworks</h3>
   <p>
       <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <!-- React --> 
-      <img alt="Angular" src="	https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/> <!-- Angular -->
+      <img alt="Angular" src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/> <!-- Angular -->
       <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> <!-- BOOTSTRAP -->
       <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"> <!-- Django -->
   </p>
