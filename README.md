@@ -47,3 +47,5 @@
   <a href="https://steamcommunity.com/id/parra117/" target="_blank"><img alt="Steam" src="https://img.shields.io/badge/steam%20-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white"/></a> <!--Steam -->
   <a href="https://github.com/gparra12" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?logo=GitHub&style=for-the-badge"/></a> <!-- GitHub -->
 </p>
+
+[![iuricode](https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
