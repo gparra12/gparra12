@@ -5,7 +5,7 @@
 
 💬 If you would like to ask me any questions, please contact me via this email: parra.guilherme2@gmail.com.
 
-----
+---
 
 ## 🚀 My Skills
 
@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </code>
 
----
+-----
 
 ### 🖼 Front-end
 <code>
@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </code>
 
----
+-----
 
 ### 📱 Mobile
 <code>
@@ -35,7 +35,7 @@
     <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
 </code>
 
----
+----
 
 ### 🛠 Tools
 <code>
@@ -45,14 +45,14 @@
     <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" />
 </code>
 
----
+----
 
 ### 💾 Database
 <code>
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </code>
 
----
+----
 
 ## ⭐ Information about my GitHub account
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gparra12&show_icons=true)
