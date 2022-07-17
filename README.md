@@ -3,7 +3,7 @@
 > I'm currently 20 years old and I work at a company called [Esparta](https://github.com/esparta-tech), where I develop mobile apps using React Native
 🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
 
-💬 If you would like to ask me any questions, please contact me via this email: <ins>parra.guilherme2@gmail.com</ins>.
+💬 If you would like to ask me any questions, please contact me via this email: parra.guilherme2@gmail.com.
 
 ----
 
