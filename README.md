@@ -49,3 +49,5 @@
 </p>
 
 [![gparra12](https://github-readme-stats.vercel.app/api?username=gparra12&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![gparra12](https://github-readme-stats.vercel.app/api/top-langs/?username=gparra12&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
